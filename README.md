@@ -12,6 +12,8 @@ Your goal is to design a **simpler, more intuitive way** to work with dynamic da
 
 If you're not familiar with low-code tools you can signup for retool and try to drag and drop an input and a text component to bind the input value to the text
 
+Feel free to change the provided ui whenever needed
+
 ## **Challenge**
 
 Create a small prototype that allows a non-technical user to:
@@ -24,20 +26,6 @@ Create a small prototype that allows a non-technical user to:
    - Combining values (e.g. product price + delivery cost)
 
    - Transformations (e.g. date to age)
-
-⚠️ Constraint:
-
-- Do **not** use syntax like `{{ }}` or anything code-like in the UX
-
----
-
-## **Provided UI**
-
-- Text element
-
-- Example input fields: Name & age
-
-You can change this if needed, but keep it simple.
 
 ---
 
