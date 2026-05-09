@@ -21,7 +21,7 @@ Create a small prototype that allows a non-technical user to:
 2. Perform at least **2 additional actions**, such as:
    - Conditional logic (e.g. show/hide based on input)
 
-   - Combining values (e.g. list of names sperated by comma)
+   - Combining values (e.g. product price + delivery cost)
 
    - Transformations (e.g. date to age)
 
@@ -45,7 +45,7 @@ You can change this if needed, but keep it simple.
 
 - Working prototype (rough is fine)
 
-- 5–10 min Loom (or short write-up) explaining:
+- 5–10 min Loom explaining:
   - Your approach
 
   - How a non-technical user would use it
@@ -70,8 +70,9 @@ Include a loom with your thought process.
 
 **You will be judged on:**
 
-- 7 points: Thought process and coming up with a solution
+- 5 points: Thought process and coming up with a solution
 - 3 points: The ease of use for the solution
+- 2 points: Code quality
 
 Max reachable score 10/10 points
 
