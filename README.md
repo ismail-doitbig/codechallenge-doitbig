@@ -66,6 +66,6 @@ Max reachable score 10/10 points
 
 Besides the above points your app will be compared against other developer submissions.
 
-p.s. many failed with submitting quickly generated ai slop with no attention to detail.
+⚠️ We're not looking for vibe coders that submit the first result Ai generates. We need someone with attention to details ⚠️ 
 
 Goodluck!
